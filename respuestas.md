@@ -1,0 +1,11 @@
+# Jose Samuel Mahecha Alarcon
+- 1:B
+- 2:C
+- 3:C
+- 4:B
+- 5:C
+- 6:B
+- 7:D
+- 8:D
+- 9:D
+- 10:D
